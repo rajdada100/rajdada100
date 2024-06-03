@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Raj Dada  Database Administrator | Data Analyist | Power BI Developer 
 
-<!--
-**rajdada100/rajdada100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🚀 Passionate about Data analytics, Database management, and Business insights. Skilled in  Oracle Database, Postgres, MongoDB, Excel, and Power BI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Constantly exploring new technologies and methodologies to solve complex data problems and deliver actionable insights.
+
+🔧 Currently working on enhancing my skills in Data visualization and Advanced Analytics.
+
+📫 Feel free to reach out to collaborate on exciting projects or just to connect!
+
+## Skills
+
+- **Languages & Tools**: Oracle Database, Postgres, MongoDB, Excel, and Power BI
+- **Areas of Expertise**: Data Analytics, Database Management, Business Intelligence
+
+## Projects
+
+- [**Excel-Sales-Analytics**](https://github.com/rajdada100/Excel-Sales-Analytics): Comprehensive sales analytics using Excel.
+- [**Business-Insights-360**](https://github.com/rajdada100/Business-Insights-360): In-depth business insights and reporting.
+- [**Hospitality_Analysis**](https://github.com/rajdada100/Hospitality_Domain): Hospitality Analysis Dashboard
+
+## GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rajdada100&show_icons=true&theme=radical)
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/rajdada100)
+- [Email](mailto:rajdada100)
