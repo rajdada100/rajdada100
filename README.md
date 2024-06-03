@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Raj Dada  Database Administrator | Data Analyist | Power BI Developer 
+# 👋 Hi, I'm Raj Dada  
+Database Administrator | Data Analyist | Power BI Developer 
 
 ## About Me
 
