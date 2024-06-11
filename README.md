@@ -27,7 +27,11 @@ Database Administrator | Data Analyist | Power BI Developer
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rajdada100&show_icons=true&theme=radical)
 
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajdada100&theme=solarized_dark)
+
+
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/rajdada100)
 - [Email](mailto:rajdada100)
+
