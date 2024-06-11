@@ -21,6 +21,7 @@ Database Administrator | Data Analyist | Power BI Developer
 - [**Excel-Sales-Analytics**](https://github.com/rajdada100/Excel-Sales-Analytics): Comprehensive sales analytics using Excel.
 - [**Business-Insights-360**](https://github.com/rajdada100/Business-Insights-360): In-depth business insights and reporting.
 - [**Hospitality_Analysis**](https://github.com/rajdada100/Hospitality_Domain): Hospitality Analysis Dashboard
+- [**Netflix Analysis**](https://github.com/rajdada100/Netflix-Ratings-Analysis): Netflix Rating Analysis Dashboard
 
 ## GitHub Stats
 
