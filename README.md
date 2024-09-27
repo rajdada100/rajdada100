@@ -22,8 +22,8 @@ Database Administrator | Data Analyist | Power BI Developer
 - [**Business-Insights-360**](https://github.com/rajdada100/Business-Insights-360): In-depth business insights and reporting.
 - [**Hospitality_Analysis**](https://github.com/rajdada100/Hospitality_Domain): Hospitality Analysis Dashboard
 - [**Netflix Analysis**](https://github.com/rajdada100/Netflix-Ratings-Analysis): Netflix Rating Analysis Dashboard
--  [**Massachusetts General Hospital Analysis**](https://github.com/rajdada100/Massachusetts-General-Hospital-Dashboard): Massachusetts General Hospital Analysis
-
+- [**Massachusetts General Hospital Analysis**](https://github.com/rajdada100/Massachusetts-General-Hospital-Dashboard): Massachusetts General Hospital Analysis
+- [**Zomato Analysis **](https://github.com/rajdada100/Zomato-Dashboard): Zomato Analysis Dashboard
 ## GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rajdada100&show_icons=true&theme=radical)
