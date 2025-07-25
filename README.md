@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Raj   
-Database Administrator | Data Analyist | Power BI Developer 
+Database Administrator | Data Analyist | Power BI Developer | Data Engineer
 
 ## About Me
 
