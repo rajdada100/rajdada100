@@ -13,7 +13,7 @@ Database Administrator | Data Analyist | Power BI Developer
 
 ## Skills
 
-- **Languages & Tools**: Oracle Database, Postgres, MongoDB, Excel, and Power BI
+- **Languages & Tools**: Oracle Database, Postgres, MongoDB, Excel,  Power BI, Ansible
 - **Areas of Expertise**: Data Analytics, Database Management, Business Intelligence
 
 ## Projects
